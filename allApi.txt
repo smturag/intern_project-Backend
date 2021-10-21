@@ -1,0 +1,14 @@
+1. inserting Data header
+http://localhost:4000/api//insert
+
+2.inserting Data 
+http://localhost:4000/api/insertData
+
+3.find Header data from Form Name
+http://localhost:4000/api/getHeader/:formName
+
+4.find Field data from Form Name
+http://localhost:4000/api/getData/:formName
+
+5. Get All form name
+http://localhost:4000/api/getFormName
